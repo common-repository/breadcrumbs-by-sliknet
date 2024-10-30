@@ -1,0 +1,111 @@
+# Copyright (C) 2017 Breadcrumbs
+# This file is distributed under the same license as the Breadcrumbs package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Breadcrumbs 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/breadcrumbs-by-"
+"sliknet\n"
+"POT-Creation-Date: 2017-02-23 13:01+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-02-23 13:05+0200\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+
+#: breadcrumbs-admin.php:15
+msgid "Settings"
+msgstr "Настройки"
+
+#: breadcrumbs-admin.php:18
+msgid "Text for pages"
+msgstr "Тексты для страниц"
+
+#: breadcrumbs-admin.php:22
+msgid "Home"
+msgstr "Главная"
+
+#: breadcrumbs-admin.php:26
+msgid "Category"
+msgstr "Категория"
+
+#: breadcrumbs-admin.php:30
+msgid "Search results"
+msgstr "Результаты поиска по запросу"
+
+#: breadcrumbs-admin.php:34 breadcrumbs_sliknet.php:38
+msgid "Articles with tag"
+msgstr "Записи с тегом"
+
+#: breadcrumbs-admin.php:38 breadcrumbs_sliknet.php:39
+msgid "Articles by author"
+msgstr "Cтраницы автора"
+
+#: breadcrumbs-admin.php:42
+msgid "Page 404"
+msgstr "Cтраница 404"
+
+#: breadcrumbs-admin.php:49
+msgid "Options"
+msgstr "Опции"
+
+#: breadcrumbs-admin.php:52
+msgid "Separator"
+msgstr "Разделитель"
+
+#: breadcrumbs-admin.php:56
+msgid "Show current title of page/post/category"
+msgstr "Показывать название текущей статьи/страницы/рубрики"
+
+#: breadcrumbs-admin.php:59 breadcrumbs-admin.php:68 breadcrumbs-admin.php:77
+msgid "Yes"
+msgstr "Да"
+
+#: breadcrumbs-admin.php:61 breadcrumbs-admin.php:70 breadcrumbs-admin.php:79
+msgid "No"
+msgstr "Нет"
+
+#: breadcrumbs-admin.php:65
+msgid "Show on Home page"
+msgstr "Показывать на главной странице"
+
+#: breadcrumbs-admin.php:74
+msgid "Show home link"
+msgstr "Показать ссылку на главную страницу"
+
+#: breadcrumbs-admin.php:84
+msgid "Save settings"
+msgstr "Сохранить настройки"
+
+#: breadcrumbs_sliknet.php:35
+msgid "Home page"
+msgstr "Главная страница"
+
+#: breadcrumbs_sliknet.php:37
+msgid "Search results for"
+msgstr "Результаты поиска по запросу"
+
+#: breadcrumbs_sliknet.php:40
+msgid "404"
+msgstr "404"
+
+#: breadcrumbs_sliknet.php:220
+msgid "Breadcrumbs settings"
+msgstr "Хлебные крошки"
+
+#. Plugin Name of the plugin/theme
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://sliknet.com/"
+msgstr "http://sliknet.com/"
+
+#. Description of the plugin/theme
+msgid "Breadcrumbs by slikNET with support schema.org"
+msgstr "Хлебные крошки от slikNET с поддержкой schema.org"
+
+#. Author of the plugin/theme
+msgid "slikNET"
+msgstr "slikNET"
